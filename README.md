@@ -1,2 +1,2 @@
-# Marp-Slide-Templates
-My own templare for marp (https://yhatt.github.io/marp/)
+# Marp Slide Templates
+* Slide templates for [Marp](https://yhatt.github.io/marp/)
