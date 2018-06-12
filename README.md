@@ -12,4 +12,4 @@ Marp's output as a PDF that can be used for presenting
 Vector graphic logo stolen from [Wikimedia](https://commons.wikimedia.org/wiki/File:Service_mark.svg). I slightly adapted the colors of the normal one to fit the slides background.
 
 ### [bg.svg](https://github.com/Stousn/Marp-Slide-Templates/blob/master/bg.svg)
-Self created SVG to show how a sliede can have a background. This is just because I didn't want to search for a public licenced image :smirk:
+Self created SVG to show how a slide can have a background. This is just because I didn't want to search for a public licenced image :smirk:
